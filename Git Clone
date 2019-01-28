@@ -1,0 +1,5 @@
+package 'python' do
+    action:install
+end
+
+git clone https://bitbucket.org/azneita/devops-challenge.git /webapps/devops
